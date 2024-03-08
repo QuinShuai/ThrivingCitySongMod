@@ -4,7 +4,7 @@
 1. [制作断案MOd](/CaseMod.md)
 1. [制作地图MOd](/MapMod.md)
 1. [制作皮肤MOd](/SkinMod.md)
-1. [制作其他MOd]()
+1. [制作其他MOd](/OtherMod.md)
 1. [上传Mod](/UploadMod.md)
 # Mod资源下载
 - [幕僚配置表(如果点击不能下载, 请右键另存为)](/Asset/Staff.xlsx)
